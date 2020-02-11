@@ -1,8 +1,4 @@
-# gatsby-contentful-starter
-
-Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
-
-![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
+# Deadly Combination Of Gatsby and Contentfull
 
 Static sites are scalable, secure and have very little required maintenance. They come with a drawback though. Not everybody feels good editing files, building a project and uploading it somewhere. This is where Contentful comes into play.
 
